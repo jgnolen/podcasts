@@ -3,7 +3,7 @@ a list of podcasts organized in categories
 
 "*" Denotes Favorite Top 10 Podcasts in a Category
 
-## Cybersecurity (sorted A-Z as they are listed in Apple Podcasts)
+### Cybersecurity (sorted A-Z as they are listed in Apple Podcasts)
 
 - BHIS: Talkin' About Infosec News*
 - Blueprint: SANS Institute*
@@ -34,7 +34,7 @@ a list of podcasts organized in categories
 - Your Cyber Path: Kip Boyle
 
 
-## Military, Military History, Government, Foreign Policy, and National Security Strategy (sorted A-Z as they are listed in Apple Podcasts)
+### Military, Military History, Government, Foreign Policy, and National Security Strategy (sorted A-Z as they are listed in Apple Podcasts)
 
 - Angry Planet: Matthew Gault
 - Black Rifle Podcast: BRC
