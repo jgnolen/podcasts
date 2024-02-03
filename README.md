@@ -65,7 +65,10 @@ a list of podcasts organized in categories
 - War on the Rocks: Ryan Evans*
 - Why It Matters: CFR
 
+### Additional Podcasts
 
+- DHUnplugged: Horowitz and Dvorak
+- No Agenda: Adam Curry & John C. Dvorak
 
 
 
